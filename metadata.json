@@ -1,0 +1,7 @@
+{
+  "name": "Med-iA - Medical SaaS",
+  "description": "A comprehensive medical SaaS platform for clinical management with AI-powered features, smart onboarding, and interactive consultation tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
